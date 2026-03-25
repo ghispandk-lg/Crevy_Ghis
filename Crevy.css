@@ -13,6 +13,9 @@ body{
 header{
     background-color: rgb(6, 19, 127);
 }
+.Head{
+    background-color: rgb(6, 19, 127);
+}
 
 h1{
     text-align: center;
