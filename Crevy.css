@@ -61,14 +61,7 @@ p{
 .Texte{
     color: blue;
 }
-strong{
-    font-weight: bold;
-    display: inline-block;
-}
-.bold{
-    font-weight: bold;
-    display: inline-block;
-}
+
 #Projet,#Web,#Parcours,#Experience,#Centre,#contacter{
     text-align: left;
 }
